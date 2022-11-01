@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+
 <p>I am a full-stack developer and have been working in the web development field for more than 9 years.</p>
 <p>I have started to work Web development in a significant development team.</p> 
 <p>The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage.</p>
@@ -9,7 +10,8 @@
 
 Through working together, you will find I am responsive, communicative, transparent, and I work hard for my clients.
 
-I provide development services using:
+<h2>I provide development services using:</h2>
+<p></p>
 
 <b> -Development Deliverables:</b> <p>Web Design, Website Development, Database Design, CRM, API Integration, API, Responsive Design, eCommerce Website, Web Application, Website Optimization, UX/UI, Database Architecture, Website Redesign</p>
 <b> -Programming Language:</b> <p>HTML, HTML5, CSS, Bootstrap,Javascript, jQuery, Ajax, TypeScript, SQL, PHP, Python, Node.js, Java, C#</p>
