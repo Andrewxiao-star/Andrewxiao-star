@@ -9,19 +9,18 @@ Through working together, you will find I am responsive, communicative, transpar
 
 I provide development services using:
 
--Blockchain Development
-    Blockchain, Ethereum, Cryptocurrency, Bitcoin, NFT, Solidity, Smart Contract, DApps, Web3.js, etc
--Development Deliverables
-    Web Design, Website Development, Database Design, CRM, API Integration, API, Responsive Design, eCommerce Website, Web Application,
-        Website Optimization, UX/UI, Database Architecture, Website Redesign
--Programming Language
-    HTML, HTML5, CSS, Bootstrap,Javascript, jQuery, Ajax, TypeScript, SQL, PHP, Python, Node.js, Java, C#
--Database
-    MySQL, MongoDB, PostgreSQL, SQLite
--Frameworks
-    Laravel, Codeigniter, React, Redux, Next, Vue, Nuxt, Angular, Node, Express, Flask, Django, etc
--Mobile App Development
-    Android, Java, Kotlin, React Native, Mobile App Design, etc
+-Development Deliverables:
+             Web Design, Website Development, Database Design, CRM, API Integration, API, Responsive Design, eCommerce Website, Web Application, Website Optimization, UX/UI, Database Architecture, Website Redesign
+-Programming Language:
+             HTML, HTML5, CSS, Bootstrap,Javascript, jQuery, Ajax, TypeScript, SQL, PHP, Python, Node.js, Java, C#
+-Database:
+             MySQL, MongoDB, PostgreSQL, SQLite
+-Frameworks:
+             Laravel, Codeigniter, React, Redux, Next, Vue, Nuxt, Angular, Node, Express, Flask, Django, etc
+-Blockchain Development:
+             Blockchain, Ethereum, Cryptocurrency, Bitcoin, NFT, Solidity, Smart Contract, DApps, Web3.js, etc
+-Mobile App Development:
+             Android, Java, Kotlin, React Native, Mobile App Design, etc
 
 It would be best if you worked with me because:
 Flexible communication skills are essential to any job requirement.
