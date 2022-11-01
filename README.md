@@ -2,24 +2,21 @@
 
 ### Hi there 👋
 
-I am a full-stack developer and have been working in the web development field for more than 9 years.
-I have started to work Web development in a significant development team. The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage. I aspire to be a reliable partner for you who can help you grow your business through your website and web application.
+<p>I am a full-stack developer and have been working in the web development field for more than 9 years.</p>
+<p>I have started to work Web development in a significant development team.</p> 
+<p>The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage.</p>
+<p>I aspire to be a reliable partner for you who can help you grow your business through your website and web application.</p>
 
 Through working together, you will find I am responsive, communicative, transparent, and I work hard for my clients.
 
 I provide development services using:
 
--Development Deliverables:
-             Web Design, Website Development, Database Design, CRM, API Integration, API, Responsive Design, eCommerce Website, Web Application, Website Optimization, UX/UI, Database Architecture, Website Redesign
--Programming Language:
-             HTML, HTML5, CSS, Bootstrap,Javascript, jQuery, Ajax, TypeScript, SQL, PHP, Python, Node.js, Java, C#
--Database:
-             MySQL, MongoDB, PostgreSQL, SQLite
--Frameworks:
-             Laravel, Codeigniter, React, Redux, Next, Vue, Nuxt, Angular, Node, Express, Flask, Django, etc
--Blockchain Development:
-             Blockchain, Ethereum, Cryptocurrency, Bitcoin, NFT, Solidity, Smart Contract, DApps, Web3.js, etc
--Mobile App Development:
+<b> -Development Deliverables:</b> Web Design, Website Development, Database Design, CRM, API Integration, API, Responsive Design, eCommerce Website, Web Application, Website Optimization, UX/UI, Database Architecture, Website Redesign
+<b> -Programming Language:</b> HTML, HTML5, CSS, Bootstrap,Javascript, jQuery, Ajax, TypeScript, SQL, PHP, Python, Node.js, Java, C#
+<b> -Database:</b> MySQL, MongoDB, PostgreSQL, SQLite
+<b> -Frameworks:</b> Laravel, Codeigniter, React, Redux, Next, Vue, Nuxt, Angular, Node, Express, Flask, Django, etc
+<b> -Blockchain Development:</b> Blockchain, Ethereum, Cryptocurrency, Bitcoin, NFT, Solidity, Smart Contract, DApps, Web3.js, etc
+<b> -Mobile App Development:</b>
              Android, Java, Kotlin, React Native, Mobile App Design, etc
 
 It would be best if you worked with me because:
