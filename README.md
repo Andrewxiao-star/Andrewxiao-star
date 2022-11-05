@@ -211,12 +211,12 @@ Thank you for your time!
 </table>
 <br><br>
 
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <!-- <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/github-status_aladdinGene.svg">
   <img src = "https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/languages_aladdinGene.svg">
-</p>
+</p> -->
 
 <summary> 👋 <b>You're welcome anytime!</b> </summary>
 <p align="center">
