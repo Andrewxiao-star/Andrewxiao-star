@@ -219,7 +219,7 @@ Thank you for your time!
 </p> -->
 
 <summary> 👋 <b>You're welcome anytime!</b> </summary>
-<p align="center">
+<!-- <p align="center">
   <img width="400" src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/bye_aladdinGene.gif">
-</p>
+</p> -->
 </details>
